@@ -1,0 +1,50 @@
+.negro{
+	background-color: black;
+	width: 30px;
+	height: 100px;
+	margin-left: 115px;
+}
+.caja{
+	background-color: black;
+	width: 200px;
+	height: 400px;
+	margin-left: 30px;
+	border-radius: 20px;
+	padding-top: 2%;
+}
+
+.rojo{
+	background-color: red;
+	margin-left: 40px;
+	width: 120px;
+	height: 120px;
+	border-radius: 100px;
+}
+
+.amarillo{
+	background-color: yellow;
+	margin-left: 40px;
+	width: 120px;
+	height: 120px;
+	border-radius: 100px;
+}
+
+.verde{
+	background-color: green;
+	margin-left: 40px;
+	width: 120px;
+	height: 120px;
+	border-radius: 100px;
+}
+
+.rojo{
+	background-color: red;
+	margin-left: 40px;
+	width: 120px;
+	height: 120px;
+	border-radius: 100px;
+}
+
+.selec{
+	box-shadow: white 0px 0px 50px 20px;
+}
